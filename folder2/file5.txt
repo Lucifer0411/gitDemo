@@ -1,0 +1,1 @@
+Added new file in slave branch using git bash and before that i had created a branch named slave while adding this slave is the head branch
